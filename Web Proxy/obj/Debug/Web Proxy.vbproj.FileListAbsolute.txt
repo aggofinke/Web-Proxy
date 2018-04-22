@@ -1,0 +1,15 @@
+C:\Users\Adam Finke\source\repos\Web Proxy\Web Proxy\bin\Debug\Web Proxy.exe.config
+C:\Users\Adam Finke\source\repos\Web Proxy\Web Proxy\bin\Debug\Web Proxy.exe
+C:\Users\Adam Finke\source\repos\Web Proxy\Web Proxy\bin\Debug\Web Proxy.pdb
+C:\Users\Adam Finke\source\repos\Web Proxy\Web Proxy\bin\Debug\Web Proxy.xml
+C:\Users\Adam Finke\source\repos\Web Proxy\Web Proxy\obj\Debug\Web Proxy.vbprojResolveAssemblyReference.cache
+C:\Users\Adam Finke\source\repos\Web Proxy\Web Proxy\obj\Debug\Web_Proxy.loginForm.resources
+C:\Users\Adam Finke\source\repos\Web Proxy\Web Proxy\obj\Debug\Web_Proxy.Resources.resources
+C:\Users\Adam Finke\source\repos\Web Proxy\Web Proxy\obj\Debug\Web Proxy.vbproj.GenerateResource.cache
+C:\Users\Adam Finke\source\repos\Web Proxy\Web Proxy\obj\Debug\Web Proxy.vbproj.CoreCompileInputs.cache
+C:\Users\Adam Finke\source\repos\Web Proxy\Web Proxy\obj\Debug\Web Proxy.exe
+C:\Users\Adam Finke\source\repos\Web Proxy\Web Proxy\obj\Debug\Web Proxy.xml
+C:\Users\Adam Finke\source\repos\Web Proxy\Web Proxy\obj\Debug\Web Proxy.pdb
+C:\Users\Adam Finke\source\repos\Web Proxy\Web Proxy\obj\Debug\Web_Proxy.accessdeniedForm.resources
+C:\Users\Adam Finke\source\repos\Web Proxy\Web Proxy\obj\Debug\Web_Proxy.webbrowserForm.resources
+C:\Users\Adam Finke\source\repos\Web Proxy\Web Proxy\obj\Debug\Web_Proxy.proxysettingsForm.resources
