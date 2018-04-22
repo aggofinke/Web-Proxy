@@ -2,8 +2,8 @@
     Private Sub loginButton_Click(sender As Object, e As EventArgs) Handles loginButton.Click
         Dim username As String
         Dim password As String
-        username = ""
-        password = ""
+        username = "aggofinke"
+        password = "1969Allen"
 
         If usernameTextBox.Text = username AndAlso passwordTextBox.Text = password Then
             webbrowserForm.Show()

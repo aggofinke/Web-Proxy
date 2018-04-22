@@ -67,6 +67,7 @@ Partial Class accessdeniedForm
         Me.MinimumSize = New System.Drawing.Size(414, 163)
         Me.Name = "accessdeniedForm"
         Me.Text = "Access Denied"
+        Me.TopMost = True
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
